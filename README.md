@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @davidgq10
 - 👀 I’m interested in web development
-- 🌱 I’m currently studying at 4Geeks Academy
-- 📫 How to reach me davidgarbanzo@gmail.com
+- 🌱 I’m full stack developer
+- 📫 How to reach me davidgarbanzo@gmail.com, linkedin.com/in/david-garbanzo-quirós-05531a57
+- 
 
 <!---
 davidgq10/davidgq10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
